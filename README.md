@@ -5,35 +5,25 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohandharamsoth413&color=7dd3fc) 
 ![Followers](https://img.shields.io/github/followers/mohandharamsoth413?style=social)
 
----
-
-
-👉 Notice the triple backticks (```) before and after the object, with `typescript` after the first set. That tells GitHub to render it as a **highlighted code block**.
-
----
-
-## 🔹 Fix for Tech Stack Icons
-Currently, you have plain URLs like `https://skillicons.dev/icons?...`. To make them show as icons, you need to embed them as images:
-
-```markdown
-## 🛠 Tech Stack
-
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
-![React](https://skillicons.dev/icons?i=react)
-![Spring](https://skillicons.dev/icons?i=spring)
-![FastAPI](https://skillicons.dev/icons?i=fastapi)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
-![GitHub](https://skillicons.dev/icons?i=github)
 
 
 
+
+
+## 👤 Who I Am
+
+```typescript
+const mohanDharamsoth = {
+  title: "Java Backend Developer",
+  stack: ["Java", "Spring Boot", "FastAPI", "Python", "ReactJS", "AWS", "Docker", "Redis", "PostgreSQL", "MongoDB", "MySQL"],
+  launchedProjects: ["Student-Management-System", "Digital-Payment-Platform"],
+  certifications: ["Backend Engineering", "Cloud & DevOps"],
+  status: "Actively building production-ready systems",
+  openTo: "Collaboration & backend engineering roles"
 }
+
+
+
 
 
 
