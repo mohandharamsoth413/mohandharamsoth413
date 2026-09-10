@@ -8,6 +8,17 @@
 ---
 
 ## 👤 Who I Am
+## 👤 Who I Am
+
+```typescript
+const mohanDharamsoth = {
+  title: "Java Backend Developer",
+  stack: ["Java", "Spring Boot", "FastAPI", "Python", "ReactJS", "AWS", "Docker", "Redis", "PostgreSQL", "MongoDB", "MySQL"],
+  launchedProjects: ["Student-Management-System", "Digital-Payment-Platform"],
+  certifications: ["Backend Engineering", "Cloud & DevOps"],
+  status: "Actively building production-ready systems",
+  openTo: "Collaboration & backend engineering roles"
+}
 
 
 
