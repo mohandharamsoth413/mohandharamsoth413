@@ -1,16 +1,21 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Mohan%20Dharamsoth%20-%20Java%20Backend%20Developer&fontSize=40&animation=twinkling)
 
-<!--
-**mohandharamsoth413/mohandharamsoth413** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7dd3fc&size=24&center=true&vCenter=true&width=1000&lines=Java+Backend+Developer;Spring+Boot+%7C+FastAPI+%7C+AWS+%7C+Docker;Building+Student+Management+and+Payment+Systems)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=mohandharamsoth413&color=7dd3fc) 
+![Followers](https://img.shields.io/github/followers/mohandharamsoth413?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👤 Who I Am
+
+```typescript
+const mohanDharamsoth = {
+  title: "Java Backend Developer",
+  stack: ["Java", "Spring Boot", "FastAPI", "Python", "ReactJS", "AWS", "Docker", "Redis", "PostgreSQL", "MongoDB", "MySQL"],
+  launchedProjects: ["Student-Management-System", "Digital-Payment-Platform"],
+  certifications: ["Backend Engineering", "Cloud & DevOps"],
+  status: "Actively building production-ready systems",
+  openTo: "Collaboration & backend engineering roles"
+}
+
