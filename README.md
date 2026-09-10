@@ -8,7 +8,6 @@
 ---
 
 ## 👤 Who I Am
-## 👤 Who I Am
 
 ```typescript
 const mohanDharamsoth = {
